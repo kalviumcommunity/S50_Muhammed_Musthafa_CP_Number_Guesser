@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.exe
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.deps.json
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.dll
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.pdb
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.dll
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\obj\Debug\net8.0\refint\NumberGuesser.dll
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.pdb
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\C#\NumberGuesser\NumberGuesser\obj\Debug\net8.0\ref\NumberGuesser.dll
